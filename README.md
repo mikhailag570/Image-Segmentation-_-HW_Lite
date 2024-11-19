@@ -1,1 +1,7 @@
-# Image-Segmentation-_-HW_Lite
+# Image-Segmentation_HW_Lite
+
+Домашнее задание по семантической сегментации изображений.
+
+УИИ.
+
+Google Colab.
